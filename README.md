@@ -95,7 +95,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Open-source libraries and contributors
 - Inspiration from classic CAD tools
