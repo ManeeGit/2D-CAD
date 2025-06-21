@@ -1,13 +1,10 @@
 {
   "name": "2d-cad",
   "version": "1.0.0",
-  "source": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build index.html --dist-dir dist --public-url ./",
-    "build:docs": "npm run build && cp -r dist docs",
-    "dev": "parcel index.html",
-    "start": "parcel index.html --open"
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
   },
   "keywords": [],
   "author": "",
